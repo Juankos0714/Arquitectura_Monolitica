@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\jucar\\Documentos\\Software Development\\Carlos Manuel\\HojaDeVida\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE672473-A4FA-4FA0-A82E-2F8605D60449}|HojaDeVida\\HojaDeVida.csproj|c:\\users\\jucar\\documentos\\software development\\carlos manuel\\hojadevida\\hojadevida\\views\\home\\speciality.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DE672473-A4FA-4FA0-A82E-2F8605D60449}|HojaDeVida\\HojaDeVida.csproj|solutionrelative:hojadevida\\views\\home\\speciality.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DE672473-A4FA-4FA0-A82E-2F8605D60449}|HojaDeVida\\HojaDeVida.csproj|c:\\users\\jucar\\documentos\\software development\\carlos manuel\\hojadevida\\hojadevida\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DE672473-A4FA-4FA0-A82E-2F8605D60449}|HojaDeVida\\HojaDeVida.csproj|solutionrelative:hojadevida\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE672473-A4FA-4FA0-A82E-2F8605D60449}|HojaDeVida\\HojaDeVida.csproj|c:\\users\\jucar\\documentos\\software development\\carlos manuel\\hojadevida\\hojadevida\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE672473-A4FA-4FA0-A82E-2F8605D60449}|HojaDeVida\\HojaDeVida.csproj|solutionrelative:hojadevida\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE672473-A4FA-4FA0-A82E-2F8605D60449}|HojaDeVida\\HojaDeVida.csproj|c:\\users\\jucar\\documentos\\software development\\carlos manuel\\hojadevida\\hojadevida\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE672473-A4FA-4FA0-A82E-2F8605D60449}|HojaDeVida\\HojaDeVida.csproj|solutionrelative:hojadevida\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE672473-A4FA-4FA0-A82E-2F8605D60449}|HojaDeVida\\HojaDeVida.csproj|c:\\users\\jucar\\documentos\\software development\\carlos manuel\\hojadevida\\hojadevida\\views\\home\\qualities.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DE672473-A4FA-4FA0-A82E-2F8605D60449}|HojaDeVida\\HojaDeVida.csproj|solutionrelative:hojadevida\\views\\home\\qualities.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE672473-A4FA-4FA0-A82E-2F8605D60449}|HojaDeVida\\HojaDeVida.csproj|c:\\users\\jucar\\documentos\\software development\\carlos manuel\\hojadevida\\hojadevida\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DE672473-A4FA-4FA0-A82E-2F8605D60449}|HojaDeVida\\HojaDeVida.csproj|solutionrelative:hojadevida\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DE672473-A4FA-4FA0-A82E-2F8605D60449}|HojaDeVida\\HojaDeVida.csproj|c:\\users\\jucar\\documentos\\software development\\carlos manuel\\hojadevida\\hojadevida\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE672473-A4FA-4FA0-A82E-2F8605D60449}|HojaDeVida\\HojaDeVida.csproj|solutionrelative:hojadevida\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE672473-A4FA-4FA0-A82E-2F8605D60449}|HojaDeVida\\HojaDeVida.csproj|c:\\users\\jucar\\documentos\\software development\\carlos manuel\\hojadevida\\hojadevida\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE672473-A4FA-4FA0-A82E-2F8605D60449}|HojaDeVida\\HojaDeVida.csproj|solutionrelative:hojadevida\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE672473-A4FA-4FA0-A82E-2F8605D60449}|HojaDeVida\\HojaDeVida.csproj|c:\\users\\jucar\\documentos\\software development\\carlos manuel\\hojadevida\\hojadevida\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE672473-A4FA-4FA0-A82E-2F8605D60449}|HojaDeVida\\HojaDeVida.csproj|solutionrelative:hojadevida\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE672473-A4FA-4FA0-A82E-2F8605D60449}|HojaDeVida\\HojaDeVida.csproj|c:\\users\\jucar\\documentos\\software development\\carlos manuel\\hojadevida\\hojadevida\\views\\home\\speciality.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE672473-A4FA-4FA0-A82E-2F8605D60449}|HojaDeVida\\HojaDeVida.csproj|solutionrelative:hojadevida\\views\\home\\speciality.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE672473-A4FA-4FA0-A82E-2F8605D60449}|HojaDeVida\\HojaDeVida.csproj|c:\\users\\jucar\\documentos\\software development\\carlos manuel\\hojadevida\\hojadevida\\views\\home\\designer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -27,24 +47,12 @@
       "RelativeMoniker": "D:0:0:{DE672473-A4FA-4FA0-A82E-2F8605D60449}|HojaDeVida\\HojaDeVida.csproj|solutionrelative:hojadevida\\wwwroot\\assets\\analista.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE672473-A4FA-4FA0-A82E-2F8605D60449}|HojaDeVida\\HojaDeVida.csproj|c:\\users\\jucar\\documentos\\software development\\carlos manuel\\hojadevida\\hojadevida\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DE672473-A4FA-4FA0-A82E-2F8605D60449}|HojaDeVida\\HojaDeVida.csproj|solutionrelative:hojadevida\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DE672473-A4FA-4FA0-A82E-2F8605D60449}|HojaDeVida\\HojaDeVida.csproj|c:\\users\\jucar\\documentos\\software development\\carlos manuel\\hojadevida\\hojadevida\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE672473-A4FA-4FA0-A82E-2F8605D60449}|HojaDeVida\\HojaDeVida.csproj|solutionrelative:hojadevida\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE672473-A4FA-4FA0-A82E-2F8605D60449}|HojaDeVida\\HojaDeVida.csproj|c:\\users\\jucar\\documentos\\software development\\carlos manuel\\hojadevida\\hojadevida\\wwwroot\\assets\\profile.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{DE672473-A4FA-4FA0-A82E-2F8605D60449}|HojaDeVida\\HojaDeVida.csproj|solutionrelative:hojadevida\\wwwroot\\assets\\profile.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE672473-A4FA-4FA0-A82E-2F8605D60449}|HojaDeVida\\HojaDeVida.csproj|c:\\users\\jucar\\documentos\\software development\\carlos manuel\\hojadevida\\hojadevida\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{DE672473-A4FA-4FA0-A82E-2F8605D60449}|HojaDeVida\\HojaDeVida.csproj|solutionrelative:hojadevida\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE672473-A4FA-4FA0-A82E-2F8605D60449}|HojaDeVida\\HojaDeVida.csproj|c:\\users\\jucar\\documentos\\software development\\carlos manuel\\hojadevida\\hojadevida\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE672473-A4FA-4FA0-A82E-2F8605D60449}|HojaDeVida\\HojaDeVida.csproj|solutionrelative:hojadevida\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,11 +62,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\jucar\\Documentos\\Software Development\\Carlos Manuel\\HojaDeVida\\HojaDeVida\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "HojaDeVida\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\jucar\\Documentos\\Software Development\\Carlos Manuel\\HojaDeVida\\HojaDeVida\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "HojaDeVida\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-05T17:40:13.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\jucar\\Documentos\\Software Development\\Carlos Manuel\\HojaDeVida\\HojaDeVida\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "HojaDeVida\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\jucar\\Documentos\\Software Development\\Carlos Manuel\\HojaDeVida\\HojaDeVida\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "HojaDeVida\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-05T17:40:11.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "analista.jpg -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - Bitmap [300x168, 24 bits, JPG]",
               "DocumentMoniker": "C:\\Users\\jucar\\Documentos\\Software Development\\Carlos Manuel\\HojaDeVida\\HojaDeVida\\wwwroot\\assets\\analista.jpg",
               "RelativeDocumentMoniker": "HojaDeVida\\wwwroot\\assets\\analista.jpg",
@@ -70,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "profile.jpg -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - Bitmap [460x460, 24 bits, JPG]",
               "DocumentMoniker": "C:\\Users\\jucar\\Documentos\\Software Development\\Carlos Manuel\\HojaDeVida\\HojaDeVida\\wwwroot\\assets\\profile.jpg",
               "RelativeDocumentMoniker": "HojaDeVida\\wwwroot\\assets\\profile.jpg",
@@ -82,44 +116,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\jucar\\Documentos\\Software Development\\Carlos Manuel\\HojaDeVida\\HojaDeVida\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "HojaDeVida\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\jucar\\Documentos\\Software Development\\Carlos Manuel\\HojaDeVida\\HojaDeVida\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "HojaDeVida\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABWAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-05T12:25:48.491Z"
+              "WhenOpened": "2025-09-05T12:25:48.491Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Speciality.cshtml",
               "DocumentMoniker": "C:\\Users\\jucar\\Documentos\\Software Development\\Carlos Manuel\\HojaDeVida\\HojaDeVida\\Views\\Home\\Speciality.cshtml",
               "RelativeDocumentMoniker": "HojaDeVida\\Views\\Home\\Speciality.cshtml",
               "ToolTip": "C:\\Users\\jucar\\Documentos\\Software Development\\Carlos Manuel\\HojaDeVida\\HojaDeVida\\Views\\Home\\Speciality.cshtml",
               "RelativeToolTip": "HojaDeVida\\Views\\Home\\Speciality.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-05T12:18:57.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Qualities.cshtml",
               "DocumentMoniker": "C:\\Users\\jucar\\Documentos\\Software Development\\Carlos Manuel\\HojaDeVida\\HojaDeVida\\Views\\Home\\Qualities.cshtml",
               "RelativeDocumentMoniker": "HojaDeVida\\Views\\Home\\Qualities.cshtml",
               "ToolTip": "C:\\Users\\jucar\\Documentos\\Software Development\\Carlos Manuel\\HojaDeVida\\HojaDeVida\\Views\\Home\\Qualities.cshtml",
               "RelativeToolTip": "HojaDeVida\\Views\\Home\\Qualities.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-05T12:18:25.464Z"
+              "WhenOpened": "2025-09-05T12:18:25.464Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Designer.cshtml",
               "DocumentMoniker": "C:\\Users\\jucar\\Documentos\\Software Development\\Carlos Manuel\\HojaDeVida\\HojaDeVida\\Views\\Home\\Designer.cshtml",
               "RelativeDocumentMoniker": "HojaDeVida\\Views\\Home\\Designer.cshtml",
@@ -131,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Analyst.cshtml",
               "DocumentMoniker": "C:\\Users\\jucar\\Documentos\\Software Development\\Carlos Manuel\\HojaDeVida\\HojaDeVida\\Views\\Home\\Analyst.cshtml",
               "RelativeDocumentMoniker": "HojaDeVida\\Views\\Home\\Analyst.cshtml",
@@ -143,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\jucar\\Documentos\\Software Development\\Carlos Manuel\\HojaDeVida\\HojaDeVida\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "HojaDeVida\\Controllers\\HomeController.cs",
@@ -155,19 +191,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\jucar\\Documentos\\Software Development\\Carlos Manuel\\HojaDeVida\\HojaDeVida\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "HojaDeVida\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\jucar\\Documentos\\Software Development\\Carlos Manuel\\HojaDeVida\\HojaDeVida\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "HojaDeVida\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAWwFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-05T11:51:35.81Z"
+              "WhenOpened": "2025-09-05T11:51:35.81Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\jucar\\Documentos\\Software Development\\Carlos Manuel\\HojaDeVida\\HojaDeVida\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "HojaDeVida\\Models\\ErrorViewModel.cs",
@@ -175,19 +212,21 @@
               "RelativeToolTip": "HojaDeVida\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T11:51:31.661Z"
+              "WhenOpened": "2025-09-05T11:51:31.661Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\jucar\\Documentos\\Software Development\\Carlos Manuel\\HojaDeVida\\HojaDeVida\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "HojaDeVida\\wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\jucar\\Documentos\\Software Development\\Carlos Manuel\\HojaDeVida\\HojaDeVida\\wwwroot\\css\\site.css",
               "RelativeToolTip": "HojaDeVida\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-05T11:47:37.85Z"
+              "WhenOpened": "2025-09-05T11:47:37.85Z",
+              "EditorCaption": ""
             }
           ]
         }

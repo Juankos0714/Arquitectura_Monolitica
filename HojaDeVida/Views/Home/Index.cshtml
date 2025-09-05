@@ -2,10 +2,84 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="header-container">
-    <h1 class="Name-Profile">Juan Camilo Rojas</h1>
-    <p>Soy Analista y desarrollador de Software con enfoque en el desarrollo de soluciones tecnológicas eficientes y escalables. Cuento con experiencia en la definición de requisitos, modelado de sistemas y diseño de arquitecturas de software, integrando metodologías ágiles y principios de Clean Code y arquitectura hexagonal para garantizar calidad y mantenibilidad en los proyectos.</p>
-</div>
-<div class="text-content">
-    <img src="~/assets/profile.jpg" alt="Alternate Text" />
-</div>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Juan Camilo Rojas - Hoja de Vida</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+    <style>
+        
+    </style>
+</head>
+<body>
+ <div class="container">
+        <main role="main">
+            <!-- Sección principal -->
+            <div class="header-container">
+                <h1 class="Name-Profile">Juan Camilo Rojas</h1>
+                <p class="intro-text">
+                    Soy Analista y desarrollador de Software con enfoque en el desarrollo de soluciones tecnológicas
+                    eficientes y escalables. Cuento con experiencia en la definición de requisitos, modelado de sistemas
+                    y diseño de arquitecturas de software, integrando metodologías ágiles y principios de Clean Code y
+                    arquitectura hexagonal para garantizar calidad y mantenibilidad en los proyectos.
+                </p>
+            </div>
+
+            <!-- Imagen de perfil -->
+            <div class="profile-image-container">
+                <img src="~/assets\profile.jpg" alt="Juan Camilo Rojas" class="profile-image" />
+            </div>
+
+            <!-- Enlaces rápidos -->
+            <div class="quick-links">
+                <a href="#" class="quick-link-card">
+                    <div class="quick-link-icon">
+                        <i class="fas fa-chart-line"></i>
+                    </div>
+                    <div class="quick-link-title">Perfil Analista</div>
+                    <div class="quick-link-description">
+                        Especializado en análisis funcional de sistemas y traducción de necesidades del negocio en soluciones tecnológicas.
+                    </div>
+                </a>
+
+                <a href="#" class="quick-link-card">
+                    <div class="quick-link-icon">
+                        <i class="fas fa-palette"></i>
+                    </div>
+                    <div class="quick-link-title">Perfil Diseñador</div>
+                    <div class="quick-link-description">
+                        Creación de interfaces intuitivas y modelos de datos consistentes con herramientas como Figma y Canva.
+                    </div>
+                </a>
+
+                <a href="#" class="quick-link-card">
+                    <div class="quick-link-icon">
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <div class="quick-link-title">Cualidades</div>
+                    <div class="quick-link-description">
+                        Pensamiento analítico, trabajo en equipo, creatividad e innovación en soluciones digitales.
+                    </div>
+                </a>
+
+                <a href="#" class="quick-link-card">
+                    <div class="quick-link-icon">
+                        <i class="fas fa-cogs"></i>
+                    </div>
+                    <div class="quick-link-title">Especialidades</div>
+                    <div class="quick-link-description">
+                        Java, JavaScript, TypeScript, Node.js, Angular, Python, PostgreSQL, arquitectura hexagonal y más.
+                    </div>
+                </a>
+            </div>
+        </main>
+    </div>
+
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
